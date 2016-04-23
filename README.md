@@ -9,11 +9,8 @@ you need typings for auto-completion in vscode
 npm install typings --global
  
 // Search for definitions. 
-typings search tape
+typings search node
 
-// Install ambient typings (default from "DT", configurable through `defaultAmbientSource` in `.typingsrc`) 
-typings install mocha --ambient --save
- 
-//  Install non-ambient typings (default from "npm" registry, configurable through `defaultSource` in `.typingsrc`) 
-typings install chai --save
+typings install node --ambient
+typings install express serve-static express-serve-static-core --ambient
 ```
