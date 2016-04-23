@@ -1,0 +1,6 @@
+{
+  "version": false,
+  "ambientDependencies": {
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#a7b9b1adbfebf0d3725e81ca25fb8079f9d33f6b"
+  }
+}
