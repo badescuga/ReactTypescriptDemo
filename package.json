@@ -3,6 +3,11 @@
   "dependencies": {
     "director": "^1.2.0",
     "react": "^0.13.3",
-  "todomvc-app-css": "^2.0.0"
+    "todomvc-app-css": "^2.0.0",
+    "documentdb-typescript": "0.0.3",
+    "typescript": "2.2.0-dev.20161121"
+  },
+  "devDependencies": {
+    "typescript": "2.2.0-dev.20161121"
   }
 }
